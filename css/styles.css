@@ -1,0 +1,129 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 10px;
+    text-align: center;
+    margin: 1%;
+    background-color: #f9f7f0;
+    background-color: #f4eded;
+    background-image: url('https://www.oldgames.sk/images/oldgames/3d_action/Kens.Labyrinth/dj_4b817f1c2f1a9.png');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /*  */
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    background-color: #f2f6ee;
+    border-radius: 5px;
+}
+
+#title {
+    font-family: 'Aclonica', sans-serif;
+    font-size: 5em;
+    padding-top: 0.5%;
+}
+
+#subtitle {
+    font-size: 3em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin-bottom: 2%;
+    margin-top: 0.5%;
+}
+
+#title-2 {
+    font-size: 4em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin: 0 auto;
+    width: 70%;
+    padding-top: 3%;
+    padding-bottom: 2.5%;
+}
+
+#img-div {
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+#image {
+width: 70%;
+max-width: 500px;
+height: 350px;
+}
+
+hr {
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    width: 50%;
+}
+
+#tribute-info {
+    font-size: 1.5em;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+    background-color: #ebc999;
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 5px;
+}
+
+ul {
+    padding: 3% 3%;
+    margin: 0 5% 0 5%;
+    line-height: 2.5;
+}
+
+a {
+    font-family: monospace;
+}
+
+figcaption {
+    font-size: 2em;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    margin-top: 1.5%;    
+}
+
+blockquote {
+    width: 70%;
+    margin: 0 auto;
+    padding: 1.5%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.25em;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    text-align: justify;
+    font-style:italic;
+}
+
+#link {
+    font-family: 'Roboto Slab', serif;
+    font-size: 2em;
+    padding: 1%;
+}
+
+.arrow {
+    width: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 150px;
+    padding: 1px;
+}
+
+.arrow:hover {
+    border: 2px double black;
+    border-radius: 5px;
+    background-color: lightgoldenrodyellow;
+    color: white;
+}
+
+
